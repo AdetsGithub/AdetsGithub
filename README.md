@@ -1,6 +1,6 @@
 ## Hi, I'm Adethya 👋
 
-I'm a Computer Science MEng student at the University of Southampton (First-Class projected),
+I'm a 3rd Year Computer Science student at the University of Southampton (First-Class projected),
 focusing on **AI research, federated learning, and secure/decentralised systems**.
 
 - 🧠 AI Researcher (AAAI accepted)
